@@ -15,7 +15,7 @@ Participants: Workshop is open to all who would like to gain insight into how di
 * Online Participation: Please connect remotely via Vidyo - [https://goo.gl/cG3PYI](https://goo.gl/cG3PYI)
 * Registration: [https://goo.gl/forms/Focx0ic6a4O4UUit2](https://goo.gl/forms/Focx0ic6a4O4UUit2)
 
-####About OpenUp:
+### About OpenUp
 OpenUp believes that an equal society starts with equal access to information, and that access to relevant information creates an active citizenry. You cannot change something if you don't know what it is, how it works, or that it even exists. This is why we are opening data. And then building tools to make the data available and understandable to society.
 
 This workshop is organised by NWU Digital Humanities in collaboration with the [we-Deliver](http://we-deliver.github.io/)* project
