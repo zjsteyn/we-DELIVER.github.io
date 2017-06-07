@@ -12,6 +12,6 @@ On 3 April 2017 Prof Vera Roos (we-DELIVER project lead), Anelda van der Walt (e
 
 we-DELIVER continues to explore opportunities for collaboration with technology developers across the country to develop a suitable solution for the project and will be reporting back on the results in the third quarter of 2017.
 
-<img src="https://github.com/we-DELIVER/we-DELIVER.github.io/blob/master/assets/OpenUp.jpg" width="600px" alt="Meeting at Codebridge with OpenUp">
+<img src="https://github.com/we-DELIVER/we-DELIVER.github.io/blob/master/assets/OpenUp.jpg" height="500px" alt="Meeting - Codebridge with OpenUp">
 
 
