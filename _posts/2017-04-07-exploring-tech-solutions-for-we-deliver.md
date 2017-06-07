@@ -8,11 +8,8 @@ The main objective of [we-DELIVER](http://we-deliver.github.io) is to develop in
 
 Through colleagues in the open science community, we learned about an organisation called [Code4SA](http://code4sa.org/) (their name recently changed very aptly to OpenUp). OpenUp is, in their own words, a non-profit civic technology lab who uses data and technology to promote informed decision-making that drives social change. From the get-go it sounded like people we should speak to since they share the values of openness and change-making with the project team.
 
+<img src="{{ site.url}}/assets/OpenUp.jpg" height="500" alt="Meeting with OpenUp at Codebridge, Cape Town">
+
 On 3 April 2017 Prof Vera Roos (we-DELIVER project lead), Anelda van der Walt (eResearch Consultant), and Juan Steyn (Project Technology Lead), met with the director of OpenUp, Adi Eyal, at their offices in Cape Town at Codebridge. The meeting was very productive and many potential opportunities for collaboration even beyond we-DELIVER were identified. The initial conversation will be followed-up by a visit from Adi to the [NWU](www.nwu.ac.za) to meet with other project stakeholders as well as other researchers and students. Adi will be hosting a short session on Data-driven Story Telling at the NWU later this year. 
 
 we-DELIVER continues to explore opportunities for collaboration with technology developers across the country to develop a suitable solution for the project and will be reporting back on the results in the third quarter of 2017.
-
-<img src="{{ site.url}}/assets/OpenUp.jpg" height="500" alt="Meeting with OpenUp at Codebridge, Cape Town">
-
-
-</div>
