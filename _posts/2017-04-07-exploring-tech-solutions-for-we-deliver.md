@@ -12,4 +12,6 @@ Through colleagues in the open science community, we learned about an organisati
 
 On 3 April 2017 Prof Vera Roos (we-DELIVER project lead), Anelda van der Walt (eResearch Consultant), and Juan Steyn (Project Technology Lead), met with the director of OpenUp, Adi Eyal, at their offices in Cape Town at Codebridge. The meeting was very productive and many potential opportunities for collaboration even beyond we-DELIVER were identified. The initial conversation will be followed-up by a visit from Adi to the [NWU](www.nwu.ac.za) to meet with other project stakeholders as well as other researchers and students. Adi will be hosting a short session on Data-driven Story Telling at the NWU later this year. 
 
+We are also planning to meet with Dr Fanie Hattingh, HSA founder, and Mark Rundle from [Health Solutions Africa](https://www.hsa.care/) (HSA). HSA applies innovative technology solutions specifically in the health care sector and have a great team of technical experts, engineers, programmers and designers who develop their systems.
+
 we-DELIVER continues to explore opportunities for collaboration with technology developers across the country to develop a suitable solution for the project and will be reporting back on the results in the third quarter of 2017.
